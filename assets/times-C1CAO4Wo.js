@@ -1,1 +1,0 @@
-import{cr as m,cs as a}from"./index-C5QTxJBM.js";const c=m()(a(e=>({times:{},record:(s,i)=>e(t=>({times:{...t.times,[s]:[...t.times[s]??[],i].slice(-200)}}))}),{name:"dc-staff-times"})),r=[],f=e=>c(s=>s.times[e]??r);export{c as a,f as u};

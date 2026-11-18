@@ -1,0 +1,1 @@
+import{cA as m,cB as a}from"./index-By6QncZr.js";const c=m()(a(e=>({times:{},record:(s,i)=>e(t=>({times:{...t.times,[s]:[...t.times[s]??[],i].slice(-200)}}))}),{name:"dc-staff-times"})),o=[],f=e=>c(s=>s.times[e]??o);export{c as a,f as u};
